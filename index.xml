@@ -1,53 +1,52 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<je:listingFeed xmlns:je="http://www.jamesedition.com">
-<je:listing>
-<je:listingId>B-F2/3-03</je:listingId>
-<je:title>2 Bed (Type 4) – Duplex with Marina View - Gateway Al Zorah</je:title>
-<je:description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2301 ft², this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</je:description>
-<je:location>
-<je:address>Gateway Porto Al Zorah, Ajman</je:address>
-<je:city>Ajman</je:city>
-<je:country>AE</je:country>
-</je:location>
-<je:price>
-<je:amount>2921861</je:amount>
-<je:currency>AED</je:currency>
-</je:price>
-<je:propertyType>apartment</je:propertyType>
-<je:bedrooms>2</je:bedrooms>
-<je:bathrooms>3</je:bathrooms>
-<je:area>
-<je:amount>2301</je:amount>
-<je:unit>ft²</je:unit>
-</je:area>
-<je:isNewDevelopment>true</je:isNewDevelopment>
-<je:images>
-<je:image>https://majdkab.github.io/gateway-feed/images/B-F2-3-03.jpg</je:image>
-</je:images>
-</je:listing>
-<je:listing>
-<je:listingId>B-F2/3-04</je:listingId>
-<je:title>2 Bed (Type 4) – Duplex with Marina View - Gateway Al Zorah</je:title>
-<je:description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2282 ft², this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</je:description>
-<je:location>
-<je:address>Gateway Porto Al Zorah, Ajman</je:address>
-<je:city>Ajman</je:city>
-<je:country>AE</je:country>
-</je:location>
-<je:price>
-<je:amount>2898485</je:amount>
-<je:currency>AED</je:currency>
-</je:price>
-<je:propertyType>apartment</je:propertyType>
-<je:bedrooms>2</je:bedrooms>
-<je:bathrooms>3</je:bathrooms>
-<je:area>
-<je:amount>2282</je:amount>
-<je:unit>ft²</je:unit>
-</je:area>
-<je:isNewDevelopment>true</je:isNewDevelopment>
-<je:images>
-<je:image>https://majdkab.github.io/gateway-feed/images/B-F2-3-04.jpg</je:image>
-</je:images>
-</je:listing>
-</je:listingFeed>
+<listingFeed>
+<listing>
+<listing_id>B-F2/3-03</listing_id>
+<title>2 Bed (Type 4) – Duplex with Marina View - Gateway Al Zorah</title>
+<description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2301 ft², this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</description>
+<location>
+<address>Gateway Porto Al Zorah, Ajman</address>
+<city>Ajman</city>
+<country>AE</country>
+</location>
+<price>
+<amount>2921861</amount>
+<currency>AED</currency>
+</price>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>3</bathrooms>
+<area>
+<amount>2301</amount>
+<unit>ft²</unit>
+</area>
+<is_new_development>true</is_new_development>
+<images>
+<image>https://majdkab.github.io/gateway-feed/images/B-F2-3-03.jpg</image>
+</images>
+</listing>
+<listing>
+<listing_id>B-F2/3-04</listing_id>
+<title>2 Bed (Type 4) – Duplex with Marina View - Gateway Al Zorah</title>
+<description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2282 ft², this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</description>
+<location>
+<address>Gateway Porto Al Zorah, Ajman</address>
+<city>Ajman</city>
+<country>AE</country>
+</location>
+<price>
+<amount>2898485</amount>
+<currency>AED</currency>
+</price>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>3</bathrooms>
+<area>
+<amount>2282</amount>
+<unit>ft²</unit>
+</area>
+<is_new_development>true</is_new_development>
+<images>
+<image>https://majdkab.github.io/gateway-feed/images/B-F2-3-04.jpg</image>
+</images>
+</listing>
+</listingFeed>
