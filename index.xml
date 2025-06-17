@@ -1,8 +1,8 @@
-<listingFeed>
+<listing_feed>
 <listing>
 <listing_id>B-F2/3-03</listing_id>
 <title>2 Bed (Type 4) – Duplex with Marina View - Gateway Al Zorah</title>
-<description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2301 ft², this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</description>
+<description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2301 sqft, this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</description>
 <location>
 <address>Gateway Porto Al Zorah, Ajman</address>
 <city>Ajman</city>
@@ -17,7 +17,7 @@
 <bathrooms>3</bathrooms>
 <area>
 <amount>2301</amount>
-<unit>ft²</unit>
+<unit>sqft</unit>
 </area>
 <is_new_development>true</is_new_development>
 <images>
@@ -27,7 +27,7 @@
 <listing>
 <listing_id>B-F2/3-04</listing_id>
 <title>2 Bed (Type 4) – Duplex with Marina View - Gateway Al Zorah</title>
-<description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2282 ft², this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</description>
+<description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2282 sqft, this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</description>
 <location>
 <address>Gateway Porto Al Zorah, Ajman</address>
 <city>Ajman</city>
@@ -42,11 +42,11 @@
 <bathrooms>3</bathrooms>
 <area>
 <amount>2282</amount>
-<unit>ft²</unit>
+<unit>sqft</unit>
 </area>
 <is_new_development>true</is_new_development>
 <images>
 <image>https://majdkab.github.io/gateway-feed/images/B-F2-3-04.jpg</image>
 </images>
 </listing>
-</listingFeed>
+</listing_feed>
