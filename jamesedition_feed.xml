@@ -1,60 +1,44 @@
-<listing_feed>
-<listing>
-<id>GATEWAY-B-F2-03</id>
-<external_reference>GATEWAY-B-F2-03</external_reference>
+<jameslist_feed version="3.5">
+<adverts>
+<advert reference="GATEWAY-B-F2-03" category="real estate">
 <headline>2 Bed Duplex – Marina View | Gateway Al Zorah</headline>
 <description>Experience elegant waterfront living with this spacious 2-bedroom duplex at Gateway Al Zorah. Featuring 2301 sqft of premium space and uninterrupted marina views. Handover expected by December 2026. 50/50 payment plan available.</description>
 <listing_type>sale</listing_type>
 <availability>available</availability>
-<category>residential</category>
-<sub_category>apartment</sub_category>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>3</bathrooms>
+<area unit="sqft">2301</area>
 <location>
 <address>Gateway Porto Al Zorah</address>
 <city>Ajman</city>
 <country>AE</country>
 </location>
-<price>
-<amount>2921861</amount>
-<currency>AED</currency>
-</price>
-<bedrooms>2</bedrooms>
-<bathrooms>3</bathrooms>
-<area>
-<amount>2301</amount>
-<unit>sqft</unit>
-</area>
+<price currency="AED">2921861</price>
 <is_new_development>true</is_new_development>
 <images>
 <image>https://majdkab.github.io/gateway-feed/images/B-F2-3-03.jpg</image>
 </images>
-</listing>
-<listing>
-<id>GATEWAY-B-F2-04</id>
-<external_reference>GATEWAY-B-F2-04</external_reference>
+</advert>
+<advert reference="GATEWAY-B-F2-04" category="real estate">
 <headline>2 Bed Duplex – Marina View | Gateway Al Zorah</headline>
 <description>Stylish 2-bedroom duplex with 2282 sqft of space in the exclusive Gateway Al Zorah community. Enjoy marina views, flexible payment options, and an anticipated handover in December 2026.</description>
 <listing_type>sale</listing_type>
 <availability>available</availability>
-<category>residential</category>
-<sub_category>apartment</sub_category>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>3</bathrooms>
+<area unit="sqft">2282</area>
 <location>
 <address>Gateway Porto Al Zorah</address>
 <city>Ajman</city>
 <country>AE</country>
 </location>
-<price>
-<amount>2898485</amount>
-<currency>AED</currency>
-</price>
-<bedrooms>2</bedrooms>
-<bathrooms>3</bathrooms>
-<area>
-<amount>2282</amount>
-<unit>sqft</unit>
-</area>
+<price currency="AED">2898485</price>
 <is_new_development>true</is_new_development>
 <images>
 <image>https://majdkab.github.io/gateway-feed/images/B-F2-3-04.jpg</image>
 </images>
-</listing>
-</listing_feed>
+</advert>
+</adverts>
+</jameslist_feed>
