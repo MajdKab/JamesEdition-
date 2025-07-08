@@ -1,44 +1,564 @@
-<jameslist_feed version="3.5">
-<adverts>
-<advert reference="GATEWAY-B-F2-03" category="real estate">
-<headline>2 Bed Duplex – Marina View | Gateway Al Zorah</headline>
-<description>Experience elegant waterfront living with this spacious 2-bedroom duplex at Gateway Al Zorah. Featuring 2301 sqft of premium space and uninterrupted marina views. Handover expected by December 2026. 50/50 payment plan available.</description>
-<listing_type>sale</listing_type>
-<availability>available</availability>
-<property_type>apartment</property_type>
-<bedrooms>2</bedrooms>
-<bathrooms>3</bathrooms>
-<area unit="sqft">2301</area>
-<location>
-<address>Gateway Porto Al Zorah</address>
-<city>Ajman</city>
-<country>AE</country>
-</location>
-<price currency="AED">2921861</price>
-<is_new_development>true</is_new_development>
-<images>
-<image>https://majdkab.github.io/gateway-feed/images/B-F2-3-03.jpg</image>
-</images>
-</advert>
-<advert reference="GATEWAY-B-F2-04" category="real estate">
-<headline>2 Bed Duplex – Marina View | Gateway Al Zorah</headline>
-<description>Stylish 2-bedroom duplex with 2282 sqft of space in the exclusive Gateway Al Zorah community. Enjoy marina views, flexible payment options, and an anticipated handover in December 2026.</description>
-<listing_type>sale</listing_type>
-<availability>available</availability>
-<property_type>apartment</property_type>
-<bedrooms>2</bedrooms>
-<bathrooms>3</bathrooms>
-<area unit="sqft">2282</area>
-<location>
-<address>Gateway Porto Al Zorah</address>
-<city>Ajman</city>
-<country>AE</country>
-</location>
-<price currency="AED">2898485</price>
-<is_new_development>true</is_new_development>
-<images>
-<image>https://majdkab.github.io/gateway-feed/images/B-F2-3-04.jpg</image>
-</images>
-</advert>
-</adverts>
-</jameslist_feed>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<je:listingFeed xmlns:je="http://www.jamesedition.com">
+<je:listing>
+<je:listingId>A-103</je:listingId>
+<je:title>2BHK – Garden & Pool View – Sealine Residence</je:title>
+<je:description>This unit (A-103) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-102</je:listingId>
+<je:title>2BHK – Sea & Garden Views – Sealine Residence</je:title>
+<je:description>This unit (B-102) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>C-104</je:listingId>
+<je:title>2BHK – Sea & Garden Views – Sealine Residence</je:title>
+<je:description>This unit (C-104) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>D-103</je:listingId>
+<je:title>2BHK – Sea & Garden Views – Sealine Residence</je:title>
+<je:description>This unit (D-103) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>D-401</je:listingId>
+<je:title>2BHK – Sea View – Sealine Residence</je:title>
+<je:description>This unit (D-401) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-202</je:listingId>
+<je:title>3BHK – Sea & Garden Views – Sealine Residence</je:title>
+<je:description>This unit (A-202) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-201</je:listingId>
+<je:title>3BHK – Sea & Garden Views – Sealine Residence</je:title>
+<je:description>This unit (B-201) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>C-204</je:listingId>
+<je:title>3BHK – Sea & Garden Views – Sealine Residence</je:title>
+<je:description>This unit (C-204) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>D-202</je:listingId>
+<je:title>3BHK – Sea & Garden Views – Sealine Residence</je:title>
+<je:description>This unit (D-202) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>D-203</je:listingId>
+<je:title>3BHK – Sea & Garden Views – Sealine Residence</je:title>
+<je:description>This unit (D-203) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Sealine Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG1-01</je:listingId>
+<je:title>2BHK – Creek & Mangrove View – Creekside</je:title>
+<je:description>This unit (LG1-01) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG1-02</je:listingId>
+<je:title>2BHK – Creek & Mangrove View – Creekside</je:title>
+<je:description>This unit (LG1-02) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG1-03</je:listingId>
+<je:title>2BHK – Creek & Mangrove View – Creekside</je:title>
+<je:description>This unit (LG1-03) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG1-04</je:listingId>
+<je:title>2BHK – Creek & Mangrove View – Creekside</je:title>
+<je:description>This unit (LG1-04) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG1-05</je:listingId>
+<je:title>2BHK – Creek & Mangrove View – Creekside</je:title>
+<je:description>This unit (LG1-05) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F3-01</je:listingId>
+<je:title>2BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F3-01) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F3-02</je:listingId>
+<je:title>2BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F3-02) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F3-03</je:listingId>
+<je:title>2BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F3-03) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F4-01</je:listingId>
+<je:title>2BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F4-01) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F4-02</je:listingId>
+<je:title>2BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F4-02) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F7-01</je:listingId>
+<je:title>2BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F7-01) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F7-02</je:listingId>
+<je:title>2BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F7-02) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F7-03</je:listingId>
+<je:title>2BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F7-03) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG2-01</je:listingId>
+<je:title>2BHK – Creek View – Creekside</je:title>
+<je:description>This unit (LG2-01) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG2-02</je:listingId>
+<je:title>2BHK – Creek View – Creekside</je:title>
+<je:description>This unit (LG2-02) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG2-03</je:listingId>
+<je:title>2BHK – Creek View – Creekside</je:title>
+<je:description>This unit (LG2-03) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG2-04</je:listingId>
+<je:title>2BHK – Creek View – Creekside</je:title>
+<je:description>This unit (LG2-04) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>LG2-05</je:listingId>
+<je:title>2BHK – Creek View – Creekside</je:title>
+<je:description>This unit (LG2-05) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F2-01</je:listingId>
+<je:title>2BHK – Creek View – Creekside</je:title>
+<je:description>This unit (F2-01) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F2-02</je:listingId>
+<je:title>2BHK – Creek View – Creekside</je:title>
+<je:description>This unit (F2-02) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F2-03</je:listingId>
+<je:title>2BHK – Creek View – Creekside</je:title>
+<je:description>This unit (F2-03) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F3-12</je:listingId>
+<je:title>3BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F3-12) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F4-13</je:listingId>
+<je:title>3BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F4-13) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>F5-13</je:listingId>
+<je:title>3BHK – Golf View – Creekside</je:title>
+<je:description>This unit (F5-13) is part of the Creekside project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Creekside Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-F2&3-07</je:listingId>
+<je:title>2BHK – Creek View – Gateway</je:title>
+<je:description>This unit (A-F2&3-07) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-F2&3-10</je:listingId>
+<je:title>2BHK – Creek View – Gateway</je:title>
+<je:description>This unit (A-F2&3-10) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-F2&3-11</je:listingId>
+<je:title>2BHK – Creek View – Gateway</je:title>
+<je:description>This unit (A-F2&3-11) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-F2&3-12</je:listingId>
+<je:title>2BHK – Creek View – Gateway</je:title>
+<je:description>This unit (A-F2&3-12) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-F3-01</je:listingId>
+<je:title>2BHK – Boulevard & Corner Creek View – Gateway</je:title>
+<je:description>This unit (A-F3-01) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-F3-06</je:listingId>
+<je:title>2BHK – Boulevard View – Gateway</je:title>
+<je:description>This unit (A-F3-06) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-F4-14</je:listingId>
+<je:title>2BHK – Boulevard & Corner Creek View – Gateway</je:title>
+<je:description>This unit (A-F4-14) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-F4-19</je:listingId>
+<je:title>2BHK – Boulevard View – Gateway</je:title>
+<je:description>This unit (A-F4-19) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>A-LG1&2-12</je:listingId>
+<je:title>3BHK – Creek & Mangrove View – Gateway</je:title>
+<je:description>This unit (A-LG1&2-12) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-F2&3-01</je:listingId>
+<je:title>2BHK – Marina View – Gateway</je:title>
+<je:description>This unit (B-F2&3-01) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-F2&3-02</je:listingId>
+<je:title>2BHK – Marina View – Gateway</je:title>
+<je:description>This unit (B-F2&3-02) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-F2&3-03</je:listingId>
+<je:title>2BHK – Marina View – Gateway</je:title>
+<je:description>This unit (B-F2&3-03) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-F2&3-04</je:listingId>
+<je:title>2BHK – Marina View – Gateway</je:title>
+<je:description>This unit (B-F2&3-04) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-F2&3-05</je:listingId>
+<je:title>3BHK – Marina & Corner Creek View – Gateway</je:title>
+<je:description>This unit (B-F2&3-05) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-F4-05</je:listingId>
+<je:title>3BHK – Marina & Corner Creek View – Gateway</je:title>
+<je:description>This unit (B-F4-05) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-LG1&2-01</je:listingId>
+<je:title>3BHK – Marina View – Gateway</je:title>
+<je:description>This unit (B-LG1&2-01) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+<je:listing>
+<je:listingId>B-LG1&2-02</je:listingId>
+<je:title>3BHK – Marina View – Gateway</je:title>
+<je:description>This unit (B-LG1&2-02) is part of the Gateway project in Al Zorah. For more information, please contact us.</je:description>
+<je:location>
+<je:address>Gateway Residence, Al Zorah</je:address>
+<je:city>Ajman</je:city>
+<je:country>United Arab Emirates</je:country>
+</je:location>
+<je:price>0</je:price>
+</je:listing>
+</je:listingFeed>
