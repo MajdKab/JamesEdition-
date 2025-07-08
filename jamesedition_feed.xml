@@ -1,20 +1,655 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<je:listingFeed xmlns:je="http://www.jamesedition.com">
-<je:listing>
-<je:listingId>A-103</je:listingId>
-<je:title>2BHK – Garden & Pool View – Sealine Residence</je:title>
-<je:description>This unit (A-103) is part of the Sealine project in Al Zorah. For more information, please contact us.</je:description>
-<je:location>
-<je:address>Sealine Residence, Al Zorah</je:address>
-<je:city>Ajman</je:city>
-<je:country>United Arab Emirates</je:country>
-</je:location>
-<je:price>2950000</je:price>
-<je:image>
-<je:url>https://drive.google.com/uc?id=1ixJ6XOENj9e2Oj06J0EPXxgSvDiPr9fy</je:url>
-</je:image>
-<je:image>
-<je:url>https://drive.google.com/uc?id=1xLdoOqrhP4VSE1_A55WKxaVlzoJFQ8Hh</je:url>
-</je:image>
-</je:listing>
-</je:listingFeed>
+<jameslist_feed version="3.5">
+<adverts>
+<advert reference="AZ-001" category="real estate">
+<headline>Unit 1 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit001.jpg</images>
+</advert>
+<advert reference="AZ-002" category="real estate">
+<headline>Unit 2 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit002.jpg</images>
+</advert>
+<advert reference="AZ-003" category="real estate">
+<headline>Unit 3 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit003.jpg</images>
+</advert>
+<advert reference="AZ-004" category="real estate">
+<headline>Unit 4 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit004.jpg</images>
+</advert>
+<advert reference="AZ-005" category="real estate">
+<headline>Unit 5 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit005.jpg</images>
+</advert>
+<advert reference="AZ-006" category="real estate">
+<headline>Unit 6 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit006.jpg</images>
+</advert>
+<advert reference="AZ-007" category="real estate">
+<headline>Unit 7 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit007.jpg</images>
+</advert>
+<advert reference="AZ-008" category="real estate">
+<headline>Unit 8 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit008.jpg</images>
+</advert>
+<advert reference="AZ-009" category="real estate">
+<headline>Unit 9 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit009.jpg</images>
+</advert>
+<advert reference="AZ-010" category="real estate">
+<headline>Unit 10 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit010.jpg</images>
+</advert>
+<advert reference="AZ-011" category="real estate">
+<headline>Unit 11 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit011.jpg</images>
+</advert>
+<advert reference="AZ-012" category="real estate">
+<headline>Unit 12 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit012.jpg</images>
+</advert>
+<advert reference="AZ-013" category="real estate">
+<headline>Unit 13 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit013.jpg</images>
+</advert>
+<advert reference="AZ-014" category="real estate">
+<headline>Unit 14 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit014.jpg</images>
+</advert>
+<advert reference="AZ-015" category="real estate">
+<headline>Unit 15 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit015.jpg</images>
+</advert>
+<advert reference="AZ-016" category="real estate">
+<headline>Unit 16 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit016.jpg</images>
+</advert>
+<advert reference="AZ-017" category="real estate">
+<headline>Unit 17 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit017.jpg</images>
+</advert>
+<advert reference="AZ-018" category="real estate">
+<headline>Unit 18 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit018.jpg</images>
+</advert>
+<advert reference="AZ-019" category="real estate">
+<headline>Unit 19 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit019.jpg</images>
+</advert>
+<advert reference="AZ-020" category="real estate">
+<headline>Unit 20 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit020.jpg</images>
+</advert>
+<advert reference="AZ-021" category="real estate">
+<headline>Unit 21 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit021.jpg</images>
+</advert>
+<advert reference="AZ-022" category="real estate">
+<headline>Unit 22 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit022.jpg</images>
+</advert>
+<advert reference="AZ-023" category="real estate">
+<headline>Unit 23 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit023.jpg</images>
+</advert>
+<advert reference="AZ-024" category="real estate">
+<headline>Unit 24 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit024.jpg</images>
+</advert>
+<advert reference="AZ-025" category="real estate">
+<headline>Unit 25 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit025.jpg</images>
+</advert>
+<advert reference="AZ-026" category="real estate">
+<headline>Unit 26 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit026.jpg</images>
+</advert>
+<advert reference="AZ-027" category="real estate">
+<headline>Unit 27 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit027.jpg</images>
+</advert>
+<advert reference="AZ-028" category="real estate">
+<headline>Unit 28 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit028.jpg</images>
+</advert>
+<advert reference="AZ-029" category="real estate">
+<headline>Unit 29 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit029.jpg</images>
+</advert>
+<advert reference="AZ-030" category="real estate">
+<headline>Unit 30 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit030.jpg</images>
+</advert>
+<advert reference="AZ-031" category="real estate">
+<headline>Unit 31 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit031.jpg</images>
+</advert>
+<advert reference="AZ-032" category="real estate">
+<headline>Unit 32 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit032.jpg</images>
+</advert>
+<advert reference="AZ-033" category="real estate">
+<headline>Unit 33 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit033.jpg</images>
+</advert>
+<advert reference="AZ-034" category="real estate">
+<headline>Unit 34 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit034.jpg</images>
+</advert>
+<advert reference="AZ-035" category="real estate">
+<headline>Unit 35 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit035.jpg</images>
+</advert>
+<advert reference="AZ-036" category="real estate">
+<headline>Unit 36 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit036.jpg</images>
+</advert>
+<advert reference="AZ-037" category="real estate">
+<headline>Unit 37 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit037.jpg</images>
+</advert>
+<advert reference="AZ-038" category="real estate">
+<headline>Unit 38 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit038.jpg</images>
+</advert>
+<advert reference="AZ-039" category="real estate">
+<headline>Unit 39 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit039.jpg</images>
+</advert>
+<advert reference="AZ-040" category="real estate">
+<headline>Unit 40 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit040.jpg</images>
+</advert>
+<advert reference="AZ-041" category="real estate">
+<headline>Unit 41 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit041.jpg</images>
+</advert>
+<advert reference="AZ-042" category="real estate">
+<headline>Unit 42 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit042.jpg</images>
+</advert>
+<advert reference="AZ-043" category="real estate">
+<headline>Unit 43 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit043.jpg</images>
+</advert>
+<advert reference="AZ-044" category="real estate">
+<headline>Unit 44 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit044.jpg</images>
+</advert>
+<advert reference="AZ-045" category="real estate">
+<headline>Unit 45 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit045.jpg</images>
+</advert>
+<advert reference="AZ-046" category="real estate">
+<headline>Unit 46 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit046.jpg</images>
+</advert>
+<advert reference="AZ-047" category="real estate">
+<headline>Unit 47 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit047.jpg</images>
+</advert>
+<advert reference="AZ-048" category="real estate">
+<headline>Unit 48 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit048.jpg</images>
+</advert>
+<advert reference="AZ-049" category="real estate">
+<headline>Unit 49 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit049.jpg</images>
+</advert>
+<advert reference="AZ-050" category="real estate">
+<headline>Unit 50 - Luxury Waterfront Apartment</headline>
+<description>A stunning waterfront unit in Al Zorah with full amenities.</description>
+<price>2950000</price>
+<currency>AED</currency>
+<listing_type>sale</listing_type>
+<availability>available</availability>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<size>2100</size>
+<location>Al Zorah, Ajman, UAE</location>
+<images>https://example.com/images/unit050.jpg</images>
+</advert>
+</adverts>
+</jameslist_feed>
