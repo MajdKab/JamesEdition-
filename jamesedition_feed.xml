@@ -1,921 +1,1191 @@
 <jameslist_feed version="3.5">
 <adverts>
-<advert reference="SEALINE-B-201" category="real estate">
-<external_reference>SEALINE-B-201</external_reference>
-<headline>Sealine Residence - B-201 - 2BHK Sea View</headline>
-<description>Luxurious 2-bedroom apartment with panoramic sea views at Sealine Residence. Premium finishes, modern design.</description>
-<availability>for sale</availability>
-<price currency="AED">2950000</price>
+<advert reference="UNIT-001" category="real estate">
+<title>1 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 1 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Sealine Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1ixJ6XOENj9e2Oj06J0EPXxgSvDiPr9fy</image>
-<image>https://drive.google.com/uc?id=1xLdoOqrhP4VSE1_A55WKxaVlzoJFQ8Hh</image>
-<image>https://drive.google.com/uc?id=1B0KgoFhvpu8ZUJ5eudoSsPWVGxkdIBiz</image>
+<image>https://drive.google.com/uc?id=dummyimageid1a</image>
+<image>https://drive.google.com/uc?id=dummyimageid1b</image>
 </images>
 </advert>
-<advert reference="CREEKSIDE-F4-02" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Creekside Residence - F4-02 - 2BHK with Creek, Mangrove & Golf View</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">2650000</price>
+<advert reference="UNIT-002" category="real estate">
+<title>2 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 2 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid2a</image>
+<image>https://drive.google.com/uc?id=dummyimageid2b</image>
 </images>
 </advert>
 <advert reference="UNIT-003" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 3 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">2980000</price>
+<title>3 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 3 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid3a</image>
+<image>https://drive.google.com/uc?id=dummyimageid3b</image>
 </images>
 </advert>
 <advert reference="UNIT-004" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 4 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">2990000</price>
+<title>4 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 4 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid4a</image>
+<image>https://drive.google.com/uc?id=dummyimageid4b</image>
 </images>
 </advert>
 <advert reference="UNIT-005" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 5 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3000000</price>
+<title>5 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 5 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid5a</image>
+<image>https://drive.google.com/uc?id=dummyimageid5b</image>
 </images>
 </advert>
 <advert reference="UNIT-006" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 6 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3010000</price>
+<title>6 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 6 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid6a</image>
+<image>https://drive.google.com/uc?id=dummyimageid6b</image>
 </images>
 </advert>
 <advert reference="UNIT-007" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 7 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3020000</price>
+<title>7 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 7 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid7a</image>
+<image>https://drive.google.com/uc?id=dummyimageid7b</image>
 </images>
 </advert>
 <advert reference="UNIT-008" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 8 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3030000</price>
+<title>8 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 8 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid8a</image>
+<image>https://drive.google.com/uc?id=dummyimageid8b</image>
 </images>
 </advert>
 <advert reference="UNIT-009" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 9 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3040000</price>
+<title>9 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 9 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid9a</image>
+<image>https://drive.google.com/uc?id=dummyimageid9b</image>
 </images>
 </advert>
 <advert reference="UNIT-010" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 10 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3050000</price>
+<title>10 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 10 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid10a</image>
+<image>https://drive.google.com/uc?id=dummyimageid10b</image>
 </images>
 </advert>
 <advert reference="UNIT-011" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 11 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3060000</price>
+<title>11 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 11 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid11a</image>
+<image>https://drive.google.com/uc?id=dummyimageid11b</image>
 </images>
 </advert>
 <advert reference="UNIT-012" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 12 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3070000</price>
+<title>12 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 12 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid12a</image>
+<image>https://drive.google.com/uc?id=dummyimageid12b</image>
 </images>
 </advert>
 <advert reference="UNIT-013" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 13 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3080000</price>
+<title>13 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 13 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid13a</image>
+<image>https://drive.google.com/uc?id=dummyimageid13b</image>
 </images>
 </advert>
 <advert reference="UNIT-014" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 14 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3090000</price>
+<title>14 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 14 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid14a</image>
+<image>https://drive.google.com/uc?id=dummyimageid14b</image>
 </images>
 </advert>
 <advert reference="UNIT-015" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 15 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3100000</price>
+<title>15 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 15 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid15a</image>
+<image>https://drive.google.com/uc?id=dummyimageid15b</image>
 </images>
 </advert>
 <advert reference="UNIT-016" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 16 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3110000</price>
+<title>16 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 16 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid16a</image>
+<image>https://drive.google.com/uc?id=dummyimageid16b</image>
 </images>
 </advert>
 <advert reference="UNIT-017" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 17 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3120000</price>
+<title>17 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 17 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid17a</image>
+<image>https://drive.google.com/uc?id=dummyimageid17b</image>
 </images>
 </advert>
 <advert reference="UNIT-018" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 18 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3130000</price>
+<title>18 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 18 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid18a</image>
+<image>https://drive.google.com/uc?id=dummyimageid18b</image>
 </images>
 </advert>
 <advert reference="UNIT-019" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 19 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3140000</price>
+<title>19 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 19 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid19a</image>
+<image>https://drive.google.com/uc?id=dummyimageid19b</image>
 </images>
 </advert>
 <advert reference="UNIT-020" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 20 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3150000</price>
+<title>20 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 20 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid20a</image>
+<image>https://drive.google.com/uc?id=dummyimageid20b</image>
 </images>
 </advert>
 <advert reference="UNIT-021" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 21 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3160000</price>
+<title>21 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 21 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid21a</image>
+<image>https://drive.google.com/uc?id=dummyimageid21b</image>
 </images>
 </advert>
 <advert reference="UNIT-022" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 22 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3170000</price>
+<title>22 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 22 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid22a</image>
+<image>https://drive.google.com/uc?id=dummyimageid22b</image>
 </images>
 </advert>
 <advert reference="UNIT-023" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 23 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3180000</price>
+<title>23 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 23 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid23a</image>
+<image>https://drive.google.com/uc?id=dummyimageid23b</image>
 </images>
 </advert>
 <advert reference="UNIT-024" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 24 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3190000</price>
+<title>24 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 24 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid24a</image>
+<image>https://drive.google.com/uc?id=dummyimageid24b</image>
 </images>
 </advert>
 <advert reference="UNIT-025" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 25 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3200000</price>
+<title>25 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 25 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid25a</image>
+<image>https://drive.google.com/uc?id=dummyimageid25b</image>
 </images>
 </advert>
 <advert reference="UNIT-026" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 26 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3210000</price>
+<title>26 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 26 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid26a</image>
+<image>https://drive.google.com/uc?id=dummyimageid26b</image>
 </images>
 </advert>
 <advert reference="UNIT-027" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 27 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3220000</price>
+<title>27 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 27 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid27a</image>
+<image>https://drive.google.com/uc?id=dummyimageid27b</image>
 </images>
 </advert>
 <advert reference="UNIT-028" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 28 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3230000</price>
+<title>28 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 28 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid28a</image>
+<image>https://drive.google.com/uc?id=dummyimageid28b</image>
 </images>
 </advert>
 <advert reference="UNIT-029" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 29 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3240000</price>
+<title>29 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 29 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid29a</image>
+<image>https://drive.google.com/uc?id=dummyimageid29b</image>
 </images>
 </advert>
 <advert reference="UNIT-030" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 30 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3250000</price>
+<title>30 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 30 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid30a</image>
+<image>https://drive.google.com/uc?id=dummyimageid30b</image>
 </images>
 </advert>
 <advert reference="UNIT-031" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 31 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3260000</price>
+<title>31 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 31 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid31a</image>
+<image>https://drive.google.com/uc?id=dummyimageid31b</image>
 </images>
 </advert>
 <advert reference="UNIT-032" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 32 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3270000</price>
+<title>32 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 32 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid32a</image>
+<image>https://drive.google.com/uc?id=dummyimageid32b</image>
 </images>
 </advert>
 <advert reference="UNIT-033" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 33 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3280000</price>
+<title>33 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 33 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid33a</image>
+<image>https://drive.google.com/uc?id=dummyimageid33b</image>
 </images>
 </advert>
 <advert reference="UNIT-034" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 34 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3290000</price>
+<title>34 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 34 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid34a</image>
+<image>https://drive.google.com/uc?id=dummyimageid34b</image>
 </images>
 </advert>
 <advert reference="UNIT-035" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 35 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3300000</price>
+<title>35 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 35 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid35a</image>
+<image>https://drive.google.com/uc?id=dummyimageid35b</image>
 </images>
 </advert>
 <advert reference="UNIT-036" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 36 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3310000</price>
+<title>36 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 36 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid36a</image>
+<image>https://drive.google.com/uc?id=dummyimageid36b</image>
 </images>
 </advert>
 <advert reference="UNIT-037" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 37 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3320000</price>
+<title>37 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 37 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid37a</image>
+<image>https://drive.google.com/uc?id=dummyimageid37b</image>
 </images>
 </advert>
 <advert reference="UNIT-038" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 38 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3330000</price>
+<title>38 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 38 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid38a</image>
+<image>https://drive.google.com/uc?id=dummyimageid38b</image>
 </images>
 </advert>
 <advert reference="UNIT-039" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 39 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3340000</price>
+<title>39 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 39 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid39a</image>
+<image>https://drive.google.com/uc?id=dummyimageid39b</image>
 </images>
 </advert>
 <advert reference="UNIT-040" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 40 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3350000</price>
+<title>40 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 40 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid40a</image>
+<image>https://drive.google.com/uc?id=dummyimageid40b</image>
 </images>
 </advert>
 <advert reference="UNIT-041" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 41 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3360000</price>
+<title>41 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 41 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid41a</image>
+<image>https://drive.google.com/uc?id=dummyimageid41b</image>
 </images>
 </advert>
 <advert reference="UNIT-042" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 42 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3370000</price>
+<title>42 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 42 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid42a</image>
+<image>https://drive.google.com/uc?id=dummyimageid42b</image>
 </images>
 </advert>
 <advert reference="UNIT-043" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 43 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3380000</price>
+<title>43 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 43 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid43a</image>
+<image>https://drive.google.com/uc?id=dummyimageid43b</image>
 </images>
 </advert>
 <advert reference="UNIT-044" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 44 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3390000</price>
+<title>44 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 44 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid44a</image>
+<image>https://drive.google.com/uc?id=dummyimageid44b</image>
 </images>
 </advert>
 <advert reference="UNIT-045" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 45 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3400000</price>
+<title>45 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 45 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid45a</image>
+<image>https://drive.google.com/uc?id=dummyimageid45b</image>
 </images>
 </advert>
 <advert reference="UNIT-046" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 46 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3410000</price>
+<title>46 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 46 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid46a</image>
+<image>https://drive.google.com/uc?id=dummyimageid46b</image>
 </images>
 </advert>
 <advert reference="UNIT-047" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 47 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3420000</price>
+<title>47 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 47 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid47a</image>
+<image>https://drive.google.com/uc?id=dummyimageid47b</image>
 </images>
 </advert>
 <advert reference="UNIT-048" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 48 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3430000</price>
+<title>48 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 48 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid48a</image>
+<image>https://drive.google.com/uc?id=dummyimageid48b</image>
 </images>
 </advert>
 <advert reference="UNIT-049" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 49 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3440000</price>
+<title>49 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 49 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid49a</image>
+<image>https://drive.google.com/uc?id=dummyimageid49b</image>
 </images>
 </advert>
 <advert reference="UNIT-050" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 50 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3450000</price>
+<title>50 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 50 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid50a</image>
+<image>https://drive.google.com/uc?id=dummyimageid50b</image>
 </images>
 </advert>
 <advert reference="UNIT-051" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 51 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3460000</price>
+<title>51 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 51 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid51a</image>
+<image>https://drive.google.com/uc?id=dummyimageid51b</image>
 </images>
 </advert>
 <advert reference="UNIT-052" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 52 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3470000</price>
+<title>52 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 52 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid52a</image>
+<image>https://drive.google.com/uc?id=dummyimageid52b</image>
 </images>
 </advert>
 <advert reference="UNIT-053" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 53 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3480000</price>
+<title>53 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 53 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid53a</image>
+<image>https://drive.google.com/uc?id=dummyimageid53b</image>
 </images>
 </advert>
 <advert reference="UNIT-054" category="real estate">
-<external_reference>CREEKSIDE-F4-02</external_reference>
-<headline>Luxury Unit 54 – Sample Title</headline>
-<description>Spacious 2-bedroom unit at Creekside Residence with spectacular views of creek, mangroves, and golf course. Contemporary layout and vibrant location.</description>
-<availability>for sale</availability>
-<price currency="AED">3490000</price>
+<title>54 Bedroom Apartment in Al Zorah</title>
+<description>This is a spacious and modern unit number 54 in a waterfront development.</description>
+<listing_type>buy</listing_type>
+<availability>available</availability>
+<property_type>apartment</property_type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<price currency="AED">1500000</price>
+<living_area unit="sqft">1450</living_area>
 <location>
-<country>UAE</country>
+<address>Al Zorah, Ajman, UAE</address>
 <city>Ajman</city>
-<address>Creekside Residence, Al Zorah, Ajman</address>
+<country>United Arab Emirates</country>
+<latitude>25.4238</latitude>
+<longitude>55.5132</longitude>
 </location>
 <images>
-<image>https://drive.google.com/uc?id=1c7sWgJYn_x2PdVatOdayutVuXiagq889</image>
-<image>https://drive.google.com/uc?id=1bxexeWehLLHus7foMO7p0hPDQGOWrNHq</image>
-<image>https://drive.google.com/uc?id=1yD3xKC84zmoIDZKTD555Z5JeuFKJ0wHj</image>
+<image>https://drive.google.com/uc?id=dummyimageid54a</image>
+<image>https://drive.google.com/uc?id=dummyimageid54b</image>
 </images>
 </advert>
 </adverts>
